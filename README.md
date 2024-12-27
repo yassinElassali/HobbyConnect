@@ -1,6 +1,6 @@
 # Hobby Connect
 
-Hobby Connect è un sito web che connette persone con interessi e hobby comuni. Che tu ami fotografia, giardinaggio, videogiochi o cucina, Hobby Connect ti aiuta a creare nuove connessioni e comunità.
+Hobby Connect è un sito web che connette persone con interessi e hobby comuni. Che tu ami fotografia, giardinaggio, videogiochi o cucina,ti aiuta a creare nuove connessioni e comunità.
 
 ---
 
