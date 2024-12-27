@@ -31,7 +31,7 @@ Hobby Connect è un sito web che connette persone con interessi e hobby comuni. 
 ### Istruzioni
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-username/hobby-connect.git
+   git clone https://github.com/yassinElassali/HobbyConnect.git
 
 📜 Licenza
 Distribuito sotto licenza MIT. Sentiti libero di usarlo, modificarlo e condividerlo.
